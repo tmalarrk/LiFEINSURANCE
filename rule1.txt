@@ -1,1 +1,2 @@
 hello my rule1
+hi how are you
